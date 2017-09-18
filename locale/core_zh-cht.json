@@ -73,4 +73,5 @@
 	"core_updater_status_cancelled" : "處理程序已被使用者中止",
 	"core_updater_status_corrupted_system_module_message_box_title" : "核心模組載入失敗",
 	"core_updater_status_corrupted_system_module_message_box_body" : "核心模組可能已經毀損，將造成Wallpaper Engine運作異常.\n\n移除: {{modules}}\n\n重新安裝: {{installers}}"
+	"core_updater_prompt_close" : "Wallpaper Engine 正在執行中，請先關閉"
 }			
